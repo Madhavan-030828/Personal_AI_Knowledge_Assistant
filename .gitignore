@@ -1,0 +1,16 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data
+vector_store/
+Data/ocr_cache/
+
+# Personal documents (use public-domain sample PDFs for a public demo instead)
+Data/Raw/

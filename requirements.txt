@@ -1,0 +1,14 @@
+streamlit
+openai
+python-dotenv
+numpy
+pymupdf
+rank-bm25
+sentence-transformers
+chromadb
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-experimental
