@@ -2,6 +2,8 @@
 
 A retrieval-augmented generation (RAG) system that answers questions from your own PDF notes, **including scanned and handwritten pages**, and cites the source file and page for every answer. When the answer isn't in your documents, it says so instead of guessing.
 
+<img width="1920" height="1080" alt="demo" src="https://github.com/user-attachments/assets/b34c67df-e55a-4aa6-8c65-15ced8f9449a" />
+
 
 ## Highlights
 
