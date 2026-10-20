@@ -202,4 +202,4 @@ python src/generation_evaluation.py
 
 **Madhavan**
 
-[Linkedin](www.linkedin.com/in/madhavan-k-6a4468330)
+[Linkedin](https://www.linkedin.com/in/madhavan-k-6a4468330)
