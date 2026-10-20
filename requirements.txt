@@ -12,3 +12,4 @@ langchain-community
 langchain-openai
 langchain-chroma
 langchain-experimental
+ragas
