@@ -77,8 +77,8 @@ The system was evaluated using a custom question-answer dataset built from techn
 
 | Metric | Score |
 |---|---:|
-| Faithfulness | 94.7% |
-| Answer Correctness | 7.0% |
+| Faithfulness | 0.95 |
+| Answer Correctness | 0.70 |
 
 - **Faithfulness:** Evaluates whether generated claims are supported by the retrieved context.
 - **Answer Correctness:** Evaluates how closely generated answers match reference answers.
